@@ -1,0 +1,17 @@
+{
+    "courses": [
+        {
+            "courseCode": "CPSC110",
+            "lectureTimes": [
+                { "day": "MONDAY", "startTime": "10:00", "endTime": "11:30" },
+                { "day": "WEDNESDAY", "startTime": "14:00", "endTime": "15:30" }
+            ]
+        },
+        {
+            "courseCode": "MATH200",
+            "lectureTimes": [
+                { "day": "TUESDAY", "startTime": "09:00", "endTime": "10:30" }
+            ]
+        }
+    ]
+}

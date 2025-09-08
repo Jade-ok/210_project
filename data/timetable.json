@@ -1,0 +1,23 @@
+{"courses": [
+    {
+        "courseCode": "CPSC110",
+        "lectureTimes": [{
+            "startTime": "11:00",
+            "endTime": "12:00",
+            "day": "MONDAY"
+        }]
+    },
+    {
+        "courseCode": "CPSC210",
+        "lectureTimes": [{
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "day": "MONDAY"
+        }],
+        "labTime": {
+            "startTime": "11:00",
+            "endTime": "12:00",
+            "day": "FRIDAY"
+        }
+    }
+]}
